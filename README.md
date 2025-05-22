@@ -73,9 +73,6 @@
 
 <div align=center style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayadeabhilash&theme=github_dark" alt="Profile card" />
-  </div>
-  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tayadeabhilash&theme=github_dark&exclude={exclude}" alt="repository card" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tayadeabhilash&theme=github_dark&exclude={exclude}" alt="commits card" />
   </div>
