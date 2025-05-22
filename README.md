@@ -11,8 +11,6 @@
 
 -  I’m currently learning **Generative AI, LLMs, RAG and LangChain**.
 
--  How to reach me **tayadeabhilash@gmail.com**.
-
 
 ## Connect with me:
 <p align="left">
